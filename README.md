@@ -111,8 +111,8 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 ## 👨‍💻 Geliştirici
 
 **Muhammet Güneri**
-- GitHub: [@kullaniciadi](https://github.com/kullaniciadi)
-- LinkedIn: [Profil Linki]
+- GitHub: [@mguneri19(https://github.com/mguneri19)
+- LinkedIn: [www.linkedin.com/in/muhammet-guneri]
 
 ---
 
